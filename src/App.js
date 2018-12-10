@@ -20,7 +20,7 @@ class App extends Component {
           {/* main header */}
           <div id="main-header">
             {/* logo */}
-            <div className="logo">
+            <div id="logo">
               <span id="ist">MY</span><span id="iist">Shop.com</span>
             </div>
             {/* search */}
